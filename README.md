@@ -4,7 +4,7 @@ A fun and interactive **Quiz App** built with **React Native** and **TypeScript*
 
 ## Features 🚀
 
-- 5 Multiple Choice Questions (MCQs)
+- Multiple Choice Questions (MCQs)
 - Users can select one answer per question
 - Score is displayed at the end
 - "Start Quiz" option to begin
